@@ -1,4 +1,4 @@
-# SONAR-Rock-Vs-Mine-Prediction Machine Learning Mini-Project
+# 'SONAR-Rock-Vs-Mine-Prediction' Machine Learning Mini-Project
 
 ## Introduction: 
 **This Mini project aims to solve a binary classification problem:** Distinguishing between SONAR signals reflected by Rocks and those reflected by Mines. Using Machine Learning, We analyze and classify the acoustic signals to provide reliable predictions, which can have practical applications in underwater exploration and defense sectors.
